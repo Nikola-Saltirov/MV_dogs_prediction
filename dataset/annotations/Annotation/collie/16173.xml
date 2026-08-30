@@ -1,0 +1,25 @@
+<annotation>
+	<folder>collie</folder>
+	<filename>16173.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>396</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>collie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>18</ymin>
+			<xmax>358</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>

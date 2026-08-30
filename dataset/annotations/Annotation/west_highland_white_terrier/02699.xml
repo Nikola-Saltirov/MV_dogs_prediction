@@ -1,0 +1,25 @@
+<annotation>
+	<folder>west_highland_white_terrier</folder>
+	<filename>02699.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>281</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>West_Highland_white_terrier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>16</ymin>
+			<xmax>265</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

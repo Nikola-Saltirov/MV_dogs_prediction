@@ -1,0 +1,25 @@
+<annotation>
+	<folder>old_english_sheepdog</folder>
+	<filename>08760.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Old_English_sheepdog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>3</ymin>
+			<xmax>212</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+</annotation>

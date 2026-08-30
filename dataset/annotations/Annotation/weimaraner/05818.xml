@@ -1,0 +1,25 @@
+<annotation>
+	<folder>weimaraner</folder>
+	<filename>05818.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>410</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Weimaraner</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>48</ymin>
+			<xmax>408</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+</annotation>

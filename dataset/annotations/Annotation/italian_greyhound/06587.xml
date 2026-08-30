@@ -1,0 +1,25 @@
+<annotation>
+	<folder>italian_greyhound</folder>
+	<filename>06587.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>358</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Italian_greyhound</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>35</ymin>
+			<xmax>314</xmax>
+			<ymax>483</ymax>
+		</bndbox>
+	</object>
+</annotation>

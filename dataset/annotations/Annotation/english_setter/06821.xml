@@ -1,0 +1,25 @@
+<annotation>
+	<folder>english_setter</folder>
+	<filename>06821.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>198</width>
+		<height>281</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>English_setter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>15</ymin>
+			<xmax>185</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

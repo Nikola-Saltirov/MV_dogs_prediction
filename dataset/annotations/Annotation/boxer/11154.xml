@@ -1,0 +1,25 @@
+<annotation>
+	<folder>boxer</folder>
+	<filename>11154.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>291</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>boxer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>25</ymin>
+			<xmax>277</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>beagle</folder>
+	<filename>14690.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>beagle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>2</ymin>
+			<xmax>323</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

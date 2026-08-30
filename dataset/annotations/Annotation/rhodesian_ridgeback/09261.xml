@@ -1,0 +1,25 @@
+<annotation>
+	<folder>rhodesian_ridgeback</folder>
+	<filename>09261.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>255</width>
+		<height>383</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Rhodesian_ridgeback</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>44</ymin>
+			<xmax>189</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

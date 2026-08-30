@@ -1,0 +1,25 @@
+<annotation>
+	<folder>komondor</folder>
+	<filename>02426.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>komondor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>96</ymin>
+			<xmax>306</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

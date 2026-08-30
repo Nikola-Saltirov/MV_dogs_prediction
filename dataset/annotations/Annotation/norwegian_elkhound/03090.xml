@@ -1,0 +1,25 @@
+<annotation>
+	<folder>norwegian_elkhound</folder>
+	<filename>03090.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>294</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Norwegian_elkhound</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>172</ymin>
+			<xmax>212</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

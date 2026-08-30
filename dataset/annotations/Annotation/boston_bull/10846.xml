@@ -1,0 +1,25 @@
+<annotation>
+	<folder>boston_bull</folder>
+	<filename>10846.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>495</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Boston_bull</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>52</ymin>
+			<xmax>378</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

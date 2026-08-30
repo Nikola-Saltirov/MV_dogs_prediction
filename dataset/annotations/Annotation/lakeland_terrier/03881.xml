@@ -1,0 +1,25 @@
+<annotation>
+	<folder>lakeland_terrier</folder>
+	<filename>03881.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>461</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Lakeland_terrier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>28</ymin>
+			<xmax>353</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

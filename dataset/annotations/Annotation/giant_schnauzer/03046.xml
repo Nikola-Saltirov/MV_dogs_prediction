@@ -1,0 +1,25 @@
+<annotation>
+	<folder>giant_schnauzer</folder>
+	<filename>03046.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>giant_schnauzer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>117</ymin>
+			<xmax>365</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

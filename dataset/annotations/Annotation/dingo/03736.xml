@@ -1,0 +1,25 @@
+<annotation>
+	<folder>dingo</folder>
+	<filename>03736.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>208</width>
+		<height>281</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>dingo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>14</ymin>
+			<xmax>166</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

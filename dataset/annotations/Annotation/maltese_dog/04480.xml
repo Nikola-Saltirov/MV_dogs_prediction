@@ -1,0 +1,25 @@
+<annotation>
+	<folder>maltese_dog</folder>
+	<filename>04480.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>322</width>
+		<height>457</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Maltese_dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>110</ymin>
+			<xmax>299</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>

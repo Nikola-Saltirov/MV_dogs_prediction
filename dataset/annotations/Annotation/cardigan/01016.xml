@@ -1,0 +1,25 @@
+<annotation>
+	<folder>cardigan</folder>
+	<filename>01016.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>1082</width>
+		<height>742</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Cardigan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>157</ymin>
+			<xmax>864</xmax>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+</annotation>

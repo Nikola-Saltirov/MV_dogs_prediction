@@ -1,0 +1,25 @@
+<annotation>
+	<folder>african_hunting_dog</folder>
+	<filename>04720.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>African_hunting_dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>19</ymin>
+			<xmax>237</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>

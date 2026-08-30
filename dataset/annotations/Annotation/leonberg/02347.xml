@@ -1,0 +1,25 @@
+<annotation>
+	<folder>leonberg</folder>
+	<filename>02347.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>464</width>
+		<height>661</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Leonberg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>263</ymin>
+			<xmax>379</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+</annotation>

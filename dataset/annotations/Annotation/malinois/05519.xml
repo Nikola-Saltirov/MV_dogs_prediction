@@ -1,0 +1,25 @@
+<annotation>
+	<folder>malinois</folder>
+	<filename>05519.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>malinois</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>126</ymin>
+			<xmax>485</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

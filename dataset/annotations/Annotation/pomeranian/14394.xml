@@ -1,0 +1,25 @@
+<annotation>
+	<folder>pomeranian</folder>
+	<filename>14394.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Pomeranian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>114</ymin>
+			<xmax>384</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>borzoi</folder>
+	<filename>05602.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>332</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>borzoi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>95</ymin>
+			<xmax>294</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>

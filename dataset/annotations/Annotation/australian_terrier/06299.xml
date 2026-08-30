@@ -1,0 +1,25 @@
+<annotation>
+	<folder>australian_terrier</folder>
+	<filename>06299.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>368</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Australian_terrier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>338</xmin>
+			<ymin>167</ymin>
+			<xmax>453</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>scottish_deerhound</folder>
+	<filename>06702.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>325</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Scottish_deerhound</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>158</ymin>
+			<xmax>379</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

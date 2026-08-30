@@ -1,0 +1,25 @@
+<annotation>
+	<folder>curly_coated_retriever</folder>
+	<filename>03213.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>curly-coated_retriever</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>110</ymin>
+			<xmax>369</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

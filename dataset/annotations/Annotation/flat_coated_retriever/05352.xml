@@ -1,0 +1,25 @@
+<annotation>
+	<folder>flat_coated_retriever</folder>
+	<filename>05352.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>357</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>flat-coated_retriever</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>68</ymin>
+			<xmax>399</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

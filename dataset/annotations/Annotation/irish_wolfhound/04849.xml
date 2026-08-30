@@ -1,0 +1,25 @@
+<annotation>
+	<folder>irish_wolfhound</folder>
+	<filename>04849.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>333</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Irish_wolfhound</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>91</ymin>
+			<xmax>155</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

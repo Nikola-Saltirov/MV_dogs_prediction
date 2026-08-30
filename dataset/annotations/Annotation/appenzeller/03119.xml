@@ -1,0 +1,25 @@
+<annotation>
+	<folder>appenzeller</folder>
+	<filename>03119.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Appenzeller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>27</ymin>
+			<xmax>224</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

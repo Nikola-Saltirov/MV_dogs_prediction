@@ -1,0 +1,25 @@
+<annotation>
+	<folder>miniature_pinscher</folder>
+	<filename>02706.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>252</width>
+		<height>291</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>miniature_pinscher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>23</ymin>
+			<xmax>214</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

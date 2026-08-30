@@ -1,0 +1,25 @@
+<annotation>
+	<folder>welsh_springer_spaniel</folder>
+	<filename>04232.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Welsh_springer_spaniel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>64</ymin>
+			<xmax>294</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

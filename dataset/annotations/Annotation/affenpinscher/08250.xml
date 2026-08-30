@@ -1,0 +1,25 @@
+<annotation>
+	<folder>affenpinscher</folder>
+	<filename>08250.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>112</width>
+		<height>120</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>affenpinscher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>11</ymin>
+			<xmax>95</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

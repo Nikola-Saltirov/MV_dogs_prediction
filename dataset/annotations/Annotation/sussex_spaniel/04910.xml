@@ -1,0 +1,25 @@
+<annotation>
+	<folder>sussex_spaniel</folder>
+	<filename>04910.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>458</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Sussex_spaniel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>44</ymin>
+			<xmax>387</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>

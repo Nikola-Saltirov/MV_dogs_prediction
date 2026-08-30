@@ -1,0 +1,25 @@
+<annotation>
+	<folder>whippet</folder>
+	<filename>18392.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>357</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>whippet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>126</ymin>
+			<xmax>250</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+</annotation>

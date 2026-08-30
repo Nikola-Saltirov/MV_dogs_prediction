@@ -1,0 +1,25 @@
+<annotation>
+	<folder>pembroke</folder>
+	<filename>00187.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>377</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Pembroke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>15</ymin>
+			<xmax>375</xmax>
+			<ymax>458</ymax>
+		</bndbox>
+	</object>
+</annotation>

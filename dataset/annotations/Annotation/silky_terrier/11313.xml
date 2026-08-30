@@ -1,0 +1,25 @@
+<annotation>
+	<folder>silky_terrier</folder>
+	<filename>11313.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>335</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>silky_terrier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>40</ymin>
+			<xmax>365</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

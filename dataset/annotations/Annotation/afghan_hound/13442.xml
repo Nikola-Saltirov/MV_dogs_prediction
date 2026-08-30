@@ -1,0 +1,25 @@
+<annotation>
+	<folder>afghan_hound</folder>
+	<filename>13442.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>397</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Afghan_hound</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>209</ymin>
+			<xmax>353</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>

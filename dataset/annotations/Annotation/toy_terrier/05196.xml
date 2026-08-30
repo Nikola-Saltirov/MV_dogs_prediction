@@ -1,0 +1,25 @@
+<annotation>
+	<folder>toy_terrier</folder>
+	<filename>05196.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>353</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>toy_terrier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>12</ymin>
+			<xmax>265</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation>
+	<folder>great_pyrenees</folder>
+	<filename>08382.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>326</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Great_Pyrenees</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>90</ymin>
+			<xmax>464</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Great_Pyrenees</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>15</ymin>
+			<xmax>270</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

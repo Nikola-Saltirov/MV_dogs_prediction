@@ -1,0 +1,25 @@
+<annotation>
+	<folder>briard</folder>
+	<filename>06580.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>332</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>briard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>16</ymin>
+			<xmax>347</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

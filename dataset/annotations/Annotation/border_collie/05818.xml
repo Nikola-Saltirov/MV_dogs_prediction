@@ -1,0 +1,25 @@
+<annotation>
+	<folder>border_collie</folder>
+	<filename>05818.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>263</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Border_collie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>41</ymin>
+			<xmax>285</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>

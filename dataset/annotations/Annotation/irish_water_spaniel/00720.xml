@@ -1,0 +1,25 @@
+<annotation>
+	<folder>irish_water_spaniel</folder>
+	<filename>00720.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Irish_water_spaniel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>62</ymin>
+			<xmax>514</xmax>
+			<ymax>798</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>saint_bernard</folder>
+	<filename>03531.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>311</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Saint_Bernard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>8</ymin>
+			<xmax>349</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

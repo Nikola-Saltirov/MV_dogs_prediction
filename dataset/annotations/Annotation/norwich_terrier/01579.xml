@@ -1,0 +1,25 @@
+<annotation>
+	<folder>norwich_terrier</folder>
+	<filename>01579.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>301</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Norwich_terrier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>80</ymin>
+			<xmax>328</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>airedale</folder>
+	<filename>00129.jpg</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+		<name>Airedale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>120</ymin>
+			<xmax>378</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>
