@@ -1,3 +1,5 @@
 .vscode
 /dataset/train
 /dataset/test
+/plans
+/__pycache__
