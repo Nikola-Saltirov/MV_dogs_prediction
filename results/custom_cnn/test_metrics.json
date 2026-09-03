@@ -1,0 +1,14 @@
+{
+  "model": "custom_cnn",
+  "top1_accuracy": 0.16282051282051282,
+  "top5_accuracy": 0.4205128205128205,
+  "macro_precision": 0.15611711795805486,
+  "macro_recall": 0.1620029797521127,
+  "macro_f1": 0.14292056281968588,
+  "weighted_f1": 0.14937376107555514,
+  "parameters": 419256,
+  "training_time_seconds": 3921.689832300006,
+  "total_inference_time_seconds": 35.8564721000148,
+  "inference_ms_per_image": 4.179076002332727,
+  "best_epoch": 69
+}

@@ -1,0 +1,7 @@
+{
+  "model_name": "resnet50",
+  "best_epoch": 6,
+  "val_loss": 0.7911398856551386,
+  "val_accuracy": 0.7733333333333333,
+  "val_macro_f1": 0.7694510246962207
+}

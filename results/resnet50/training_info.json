@@ -1,0 +1,11 @@
+{
+  "model_name": "resnet50",
+  "seed": 42,
+  "epochs": 100,
+  "epochs_completed": 11,
+  "best_epoch": 6,
+  "best_validation_macro_f1": 0.7694510246962207,
+  "learning_rate": 0.0001,
+  "batch_size": 8,
+  "total_training_time_seconds": 1454.1933824000007
+}

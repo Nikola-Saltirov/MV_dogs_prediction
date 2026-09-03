@@ -1,0 +1,16 @@
+{
+  "model": "hog_svm",
+  "top1_accuracy": 0.04568764568764569,
+  "top5_accuracy": 0.13041958041958043,
+  "macro_precision": 0.03970622262953882,
+  "macro_recall": 0.044370701279442676,
+  "macro_f1": 0.03918791824111431,
+  "weighted_f1": 0.041477899553979986,
+  "parameters": 211800,
+  "training_time_seconds": 826.0387432000134,
+  "total_inference_time_seconds": 0.1005072999978438,
+  "inference_ms_per_image": 0.011714137528886224,
+  "best_epoch": null,
+  "best_c": 0.01,
+  "confidence_type": "softmax_normalized_decision_score"
+}

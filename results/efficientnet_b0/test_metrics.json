@@ -1,0 +1,14 @@
+{
+  "model": "efficientnet_b0",
+  "top1_accuracy": 0.7884615384615384,
+  "top5_accuracy": 0.9742424242424242,
+  "macro_precision": 0.7838898010644532,
+  "macro_recall": 0.7807166837773512,
+  "macro_f1": 0.7753399498544505,
+  "weighted_f1": 0.7859318350825452,
+  "parameters": 4161268,
+  "training_time_seconds": 1580.4373904000095,
+  "total_inference_time_seconds": 29.742925599974114,
+  "inference_ms_per_image": 3.466541445218428,
+  "best_epoch": 12
+}

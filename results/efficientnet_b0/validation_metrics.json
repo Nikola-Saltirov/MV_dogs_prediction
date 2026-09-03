@@ -1,0 +1,7 @@
+{
+  "model_name": "efficientnet_b0",
+  "best_epoch": 12,
+  "val_loss": 0.7799374608447086,
+  "val_accuracy": 0.775,
+  "val_macro_f1": 0.7721239459225354
+}

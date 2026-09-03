@@ -1,0 +1,7 @@
+{
+  "model_name": "mobilenet_v3_large",
+  "best_epoch": 11,
+  "val_loss": 0.8886364276559713,
+  "val_accuracy": 0.7604166666666666,
+  "val_macro_f1": 0.7575493827860399
+}

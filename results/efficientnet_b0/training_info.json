@@ -1,0 +1,11 @@
+{
+  "model_name": "efficientnet_b0",
+  "seed": 42,
+  "epochs": 100,
+  "epochs_completed": 17,
+  "best_epoch": 12,
+  "best_validation_macro_f1": 0.7721239459225354,
+  "learning_rate": 0.0001,
+  "batch_size": 8,
+  "total_training_time_seconds": 1580.4373904000095
+}

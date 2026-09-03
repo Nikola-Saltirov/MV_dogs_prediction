@@ -1,0 +1,7 @@
+{
+  "model_name": "custom_cnn",
+  "best_epoch": 69,
+  "val_loss": 3.672156985600789,
+  "val_accuracy": 0.15583333333333332,
+  "val_macro_f1": 0.14045476711585872
+}

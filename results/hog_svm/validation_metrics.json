@@ -1,0 +1,32 @@
+{
+  "model": "hog_svm",
+  "best_c": 0.01,
+  "validation_macro_f1": 0.0353172394213854,
+  "validation_top1_accuracy": 0.04083333333333333,
+  "candidate_runs": [
+    {
+      "c": 0.01,
+      "macro_f1": 0.0353172394213854,
+      "top1_accuracy": 0.04083333333333333,
+      "fit_and_validation_seconds": 93.99644080002327
+    },
+    {
+      "c": 0.1,
+      "macro_f1": 0.03390819984119095,
+      "top1_accuracy": 0.03666666666666667,
+      "fit_and_validation_seconds": 114.80105850001564
+    },
+    {
+      "c": 1.0,
+      "macro_f1": 0.030237997384508653,
+      "top1_accuracy": 0.03125,
+      "fit_and_validation_seconds": 156.79900800000178
+    },
+    {
+      "c": 10.0,
+      "macro_f1": 0.028423453615116268,
+      "top1_accuracy": 0.029166666666666667,
+      "fit_and_validation_seconds": 415.41135139999096
+    }
+  ]
+}

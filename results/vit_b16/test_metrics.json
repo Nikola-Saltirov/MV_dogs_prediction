@@ -1,0 +1,14 @@
+{
+  "model": "vit_b16",
+  "top1_accuracy": 0.681934731934732,
+  "top5_accuracy": 0.9230769230769231,
+  "macro_precision": 0.6901973428863445,
+  "macro_recall": 0.6772085062718318,
+  "macro_f1": 0.668665353430153,
+  "weighted_f1": 0.6823089419520649,
+  "parameters": 85890936,
+  "training_time_seconds": 5810.954693399981,
+  "total_inference_time_seconds": 89.14462370000547,
+  "inference_ms_per_image": 10.38981628205192,
+  "best_epoch": 11
+}

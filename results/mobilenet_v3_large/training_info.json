@@ -1,0 +1,11 @@
+{
+  "model_name": "mobilenet_v3_large",
+  "seed": 42,
+  "epochs": 100,
+  "epochs_completed": 16,
+  "best_epoch": 11,
+  "best_validation_macro_f1": 0.7575493827860399,
+  "learning_rate": 0.0001,
+  "batch_size": 8,
+  "total_training_time_seconds": 1203.6264487000008
+}

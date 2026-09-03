@@ -1,0 +1,14 @@
+{
+  "model": "resnet50",
+  "top1_accuracy": 0.7839160839160839,
+  "top5_accuracy": 0.97004662004662,
+  "macro_precision": 0.7810026456605541,
+  "macro_recall": 0.7739895025474486,
+  "macro_f1": 0.7696095613678374,
+  "weighted_f1": 0.7816643760396743,
+  "parameters": 23753912,
+  "training_time_seconds": 1454.1933824000007,
+  "total_inference_time_seconds": 41.984505700005684,
+  "inference_ms_per_image": 4.893299032634695,
+  "best_epoch": 6
+}

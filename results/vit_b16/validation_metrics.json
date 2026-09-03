@@ -1,0 +1,7 @@
+{
+  "model_name": "vit_b16",
+  "best_epoch": 11,
+  "val_loss": 1.1663814950486024,
+  "val_accuracy": 0.6791666666666667,
+  "val_macro_f1": 0.6770832638304419
+}

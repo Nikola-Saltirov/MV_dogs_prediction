@@ -1,0 +1,14 @@
+{
+  "model": "mobilenet_v3_large",
+  "top1_accuracy": 0.7681818181818182,
+  "top5_accuracy": 0.9655011655011655,
+  "macro_precision": 0.7659002410919463,
+  "macro_recall": 0.7592037833627591,
+  "macro_f1": 0.7542403138482051,
+  "weighted_f1": 0.7655143038952926,
+  "parameters": 4355752,
+  "training_time_seconds": 1203.6264487000008,
+  "total_inference_time_seconds": 27.16637869999977,
+  "inference_ms_per_image": 3.166244603729577,
+  "best_epoch": 11
+}

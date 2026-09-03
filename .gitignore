@@ -3,3 +3,5 @@
 /dataset/test
 /plans
 /__pycache__
+*.png
+*.pth
